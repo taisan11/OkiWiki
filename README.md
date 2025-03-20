@@ -1,0 +1,2 @@
+# OkiWiki
+CGIでも動くシンプルなwiki
